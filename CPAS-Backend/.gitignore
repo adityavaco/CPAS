@@ -1,0 +1,10 @@
+.env
+/myenv
+/__pycache__
+/.vscode
+/node_modules
+/myvenv
+**/__pycache__/
+/instance/cpas_database.db
+cpas-project-467504-0b6631d717dd.json
+sage�
